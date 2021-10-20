@@ -11,7 +11,7 @@ Também deixei export do Insomnia, para requisições na API em caso de necessid
 - Configurar .env **(Conforme .env.example)**
 - Redis
 - MySQL
-- [Pusher + Setup Tokens](https://pusher.com/docs/channels/getting_started/)
+- [Pusher + Setup Tokens](https://pusher.com/docs/channels/getting_started/javascript/)
 
 ```
 PUSHER_APP_ID=
